@@ -11,7 +11,7 @@ function Login() {
                         <div className="card-body p-0" id='loginuser'>
                             {/* <!-- Nested Row within Card Body --> */}
                             <h1 className='text-center mt-4'>
-                                <b style={{ color: "#51087E" , textShadow: "2px 2px 5px #00ffdd", fontFamily: "cursive"}}>Public School</b>
+                                <b style={{ color: "#51087E" , textShadow: "2px 2px 5px #00ffdd", fontFamily: "cursive"}}>Admin Dashboard</b>
                             </h1>
                             <div className="row">
                                 <div className="col-lg-6">
